@@ -7,6 +7,9 @@
   "scripts": {
     "start": "nodemon src/server.js"
   },
+    "engines": {
+      "node": "16"
+    },
   "author": "Carlos Calleja",
   "license": "ISC",
   "dependencies": {
